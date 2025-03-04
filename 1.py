@@ -6,3 +6,12 @@ x = thisset.pop()
 
 print(thisset)
 print(x)
+
+print(thisset)
+print(x)
+
+print(thisset)
+print(x)
+
+print(thisset)
+print(x)
